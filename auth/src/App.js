@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <Home></Home>
-      <h2>this is return </h2>
+      <h2>Learning github today</h2>
     </div>
   )
 }
