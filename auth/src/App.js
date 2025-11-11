@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <Home></Home>
-      <h2>Learning github and git</h2>
+      <h2>We have Learned</h2>
     </div>
   )
 }
