@@ -5,6 +5,7 @@ function App() {
     <div>
       <Home></Home>
       <h2>We have Learned</h2>
+      <p>wrong</p>
     </div>
   )
 }
