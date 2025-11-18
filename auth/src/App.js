@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <Home></Home>
-      <h2>We have Learned</h2>
+      <h2>Hum Sikh rhe hai</h2>
       <p>wrong</p>
     </div>
   )
